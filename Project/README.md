@@ -1,0 +1,1 @@
+This project aims at improving the Vector Space Model (VSM) using some techniques listed in *NLP_Project_Proposal.pdf*.
