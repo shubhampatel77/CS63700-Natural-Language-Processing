@@ -1,0 +1,1 @@
+This repo contains all the assignments and projects undertaken during CS63700 Natural Language Processing at IIT Madras.
